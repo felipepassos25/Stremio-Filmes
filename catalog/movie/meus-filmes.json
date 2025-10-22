@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "meufilme-1",
+      "type": "movie",
+      "name": "Meu Filme Pessoal",
+      "poster": "https://i.imgur.com/xjYpR1Q.jpg",
+      "description": "Filme particular hospedado via Real-Debrid"
+    }
+  ]
+}
